@@ -23,7 +23,7 @@ End Class
 
 
 
-Public Class UploadController1
+Public Class UploadController
     Inherits Controller
 
     ' GET: Upload
