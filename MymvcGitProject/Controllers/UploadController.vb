@@ -20,3 +20,14 @@ Public Class UploadController1
         Return View()
     End Function
 End Class
+
+
+
+Public Class UploadController1
+    Inherits Controller
+
+    ' GET: Upload
+    Function Index() As ActionResult
+        Return View()
+    End Function
+End Class
