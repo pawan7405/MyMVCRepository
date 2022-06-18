@@ -31,3 +31,13 @@ Public Class UploadController
         Return View()
     End Function
 End Class
+
+
+Public Class UploadController33
+    Inherits Controller
+
+    ' GET: Upload
+    Function Index() As ActionResult
+        Return View()
+    End Function
+End Class
